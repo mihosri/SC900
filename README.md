@@ -1,11 +1,11 @@
-# SC900
-Prep for SC900 
 # 🛡️ SC-900: Shiva's Journey at SriTech
+---
+Built with ☕ + [Claude](https://claude.ai)
 
 > **Shiva** just joined **SriTech**. His identity gets created, attacked, protected, and governed.
 > Follow his story, and you've covered the entire SC-900 exam.
 
-This repo is my study trail — notes, labs, scripts, and cheatsheets. No deadlines here; each phase is done when I can *explain it to a coworker without notes*.
+This repo is my study trail: notes, labs, scripts, and cheatsheets. No deadlines here; each phase is done when I can *explain it to a coworker without notes*.
 
 ---
 
