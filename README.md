@@ -141,4 +141,4 @@ flowchart LR
 
 ---
 
-*When Shiva's identity survives every attack on SriTech, I'm ready.* 🚀
+*When Shiva's identity survives every attack on SriTech, I'm ready.* 
